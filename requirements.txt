@@ -1,3 +1,4 @@
+requests
 aiocron==1.6
 async-files==0.4
 beautifulsoup4==4.9.3
@@ -12,15 +13,14 @@ PySocks==1.7.1
 PyYAML==5.4.1
 psutil==5.8.0
 TgCrypto==1.2.2
-tortoise-orm
-#tortoise-orm==0.17.6
+tortoise-orm==0.17.6
 telegraph==1.4.1
 typing-extensions==3.10.0.0
 Pyrogram==1.4.16
-pysqlite3
-db-sqlite3
-sqlite-utils
 pytz
 asyncpg
-aiomysql
 python-anilist==1.0.4
+aiosqlite==0.17.0
+mysql-connector-python==8.0.27
+psycopg2-binary==2.9.3
+PyMySQL==1.0.2
